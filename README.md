@@ -37,3 +37,8 @@ streamlit run app.py
 Live Application
 
 The Render deployment link will be added here after publication.
+
+## Dashboard online
+
+Acesse o dashboard interativo:
+https://sprint-5-vehicles-dashboard.onrender.com
